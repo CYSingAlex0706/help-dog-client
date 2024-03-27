@@ -1,0 +1,43 @@
+.detail-outer {
+    background-color: rgb(242, 243, 245);
+    min-height: calc(100vh - 82px);
+}
+
+.detail-main {
+    width: 1000px;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
+
+
+.dog-detail-wrap {
+    display: flex;
+    text-align: left;
+    background-color: #fff;
+}
+
+.dog-img {
+    width: 300px;
+    height: 400px;
+    flex: 0 0 auto;
+    margin-right: 60px;
+}
+
+.d-right-area {
+    flex: 1;
+    font-size: 18px;
+}
+
+.d-info-item {
+    margin-bottom: 22px;
+}
+
+.item-title {
+    color: #999;
+    margin-right: 20px;
+}
+
+.comment-outer-wrap {
+    margin-top: 20px;
+}

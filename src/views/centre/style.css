@@ -1,0 +1,22 @@
+.centre-main {
+    display: flex;
+    height: calc(100vh - 80px);
+}
+
+.sider {
+    width: 256px;
+    border: 1px solid #ddd;
+    border-top: none;
+}
+
+.centre-title {
+    border-bottom: 1px solid #ddd;
+    height: 50px;
+    text-align: center;
+}
+
+
+.right-area {
+    flex: 1;
+    padding: 20px;
+}

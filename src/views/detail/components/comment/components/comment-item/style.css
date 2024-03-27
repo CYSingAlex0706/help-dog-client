@@ -1,0 +1,33 @@
+.comment-item-wrap {
+    display: flex;
+    border-bottom: 1px solid #ddd;
+    padding: 22px 0;
+}
+
+.avatar {
+    width: 50px;
+    height: 50px;
+}
+
+.middle-wrap {
+    flex: 1;
+    margin: 0 20px;
+}
+
+.btn-wrap {
+    width: 160px;
+}
+
+.reply-btn {
+    margin-right: 16px;
+}
+
+.item-name {
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+.item-time {
+    color: var(--secondary-text-color);
+    font-size: 14px;
+}

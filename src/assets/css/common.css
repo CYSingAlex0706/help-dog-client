@@ -1,0 +1,20 @@
+:root {
+    --main-padding: 100px;
+    --secondary-text-color: rgb(138, 145, 159)
+}
+
+.views-main {
+    padding: 0 var(--main-padding);
+}
+
+.bg-white {
+    background-color: #fff;
+}
+
+.p-20 {
+    padding: 20px;
+}
+
+.br-8 {
+    border-radius: 8px;
+}
